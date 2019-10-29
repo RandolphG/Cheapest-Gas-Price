@@ -1,0 +1,242 @@
+[
+        {
+            "Station": "PM MALINSKA",
+            "Address": "SVETI VID - MIHOLJICE 201",
+            "GasName": "Q MAX EURODIESEL",
+            "Price": "9.89"
+        },
+        {
+            "Station": "PM ZAGREB, AVENIJA DUBRAVA",
+            "Address": "DUBRAVA 62",
+            "GasName": "Q MAX EURODIESEL",
+            "Price": "9.89"
+        },
+        {
+            "Station": "PM POREČ, OBILAZNICA SJEVER",
+            "Address": "KOSINOŽIĆI 60",
+            "GasName": "Q MAX EUROSUPER 95",
+            "Price": "9.88"
+        },
+        {
+            "Station": "PM POREČ, OBILAZNICA SJEVER",
+            "Address": "KOSINOŽIĆI 60",
+            "GasName": "Q MAX EURODIESEL",
+            "Price": "9.89"
+        },
+        {
+            "Station": "PM SLAVONSKI BROD, VINOGRADSKA",
+            "Address": "ULICA VINOGRADSKA CESTA 2A",
+            "GasName": "Q MAX EURODIESEL",
+            "Price": "9.89"
+        },
+        {
+            "Station": "PM SATNICA ĐAKOVAČKA",
+            "Address": "BANA JELAČIĆA 161",
+            "GasName": "EURODIESEL",
+            "Price": "9.77"
+        },
+        {
+            "Station": "PM ZABOK, CELINE",
+            "Address": "ULICA CELINE 2",
+            "GasName": "EURODIESEL",
+            "Price": "9.77"
+        },
+        {
+            "Station": "PM PUŠĆINE",
+            "Address": "ČAKOVEČKA ULICA 150A",
+            "GasName": "Q MAX EUROSUPER 100",
+            "Price": "10.4"
+        },
+        {
+            "Station": "PM SAMOBOR",
+            "Address": "ULICA GRADA WIRGESA 24",
+            "GasName": "Q MAX EUROSUPER 95",
+            "Price": "9.86"
+        },
+        {
+            "Station": "PM CERNIK ČAVLE AC",
+            "Address": "LIŠČEVICA 54",
+            "GasName": "Q MAX EUROSUPER 95",
+            "Price": "9.98"
+        },
+        {
+            "Station": "PM SISAK MOŠĆENICA",
+            "Address": "ANTE STARČEVIĆA 153",
+            "GasName": "Q MAX EURODIESEL",
+            "Price": "9.89"
+        },
+        {
+            "Station": "PM PAZIN",
+            "Address": "ISTARSKIH NARODNJAKA 25",
+            "GasName": "Q MAX EUROSUPER 100",
+            "Price": "10.4"
+        },
+        {
+            "Station": "PM IVANDVOR AC - ZAPAD",
+            "Address": "BRANA 102",
+            "GasName": "Q MAX EUROSUPER 100",
+            "Price": "10.75"
+        },
+        {
+            "Station": "PM ZAGREB RESNIK, ČULINEČKA",
+            "Address": "ČULINEČKA CESTA 255",
+            "GasName": "EURODIESEL",
+            "Price": "9.77"
+        },
+        {
+            "Station": "PM GOLI VRH",
+            "Address": "GOLI VRH 54",
+            "GasName": "Q MAX EURODIESEL",
+            "Price": "9.77"
+        },
+        {
+            "Station": "PM GRADEC",
+            "Address": "GRADEC 2A",
+            "GasName": "Q MAX EUROSUPER 95",
+            "Price": "9.86"
+        },
+        {
+            "Station": "PM SVETA NEDELJA, ZAGREB",
+            "Address": "DR.FRANJE TUĐMANA 8",
+            "GasName": "EURODIESEL",
+            "Price": "9.77"
+        },
+        {
+            "Station": "PM ZATON",
+            "Address": "ZADARSKA CESTA 100",
+            "GasName": "Q MAX EUROSUPER 100",
+            "Price": "10.4"
+        },
+        {
+            "Station": "PM ZLATAR",
+            "Address": "SAJMIŠNA ULICA 80",
+            "GasName": "Q MAX EUROSUPER 95",
+            "Price": "9.86"
+        },
+        {
+            "Station": "PM RIJEKA, MARTINKOVAC SJEVER",
+            "Address": "MARTINKOVAC 110",
+            "GasName": "Q MAX EURODIESEL",
+            "Price": "9.92"
+        },
+        {
+            "Station": "PM BANJOLE, PULA",
+            "Address": "KAMIK 27",
+            "GasName": "Q MAX EUROSUPER 100",
+            "Price": "10.4"
+        },
+        {
+            "Station": "PM LUKA",
+            "Address": "LUKA 375",
+            "GasName": "Q MAX EUROSUPER 95",
+            "Price": "9.86"
+        },
+        {
+            "Station": "PM BARTOLOVEC",
+            "Address": "VARAŽDINSKA ULICA 76",
+            "GasName": "Q MAX EUROSUPER 95",
+            "Price": "9.86"
+        },
+        {
+            "Station": "PM DESINEC AC - SJEVER",
+            "Address": "DONJI DESINEC 200",
+            "GasName": "Q MAX EUROSUPER 100",
+            "Price": "10.75"
+        },
+        {
+            "Station": "PM CERNIK ČAVLE AC",
+            "Address": "LIŠČEVICA 54",
+            "GasName": "EURODIESEL",
+            "Price": "9.77"
+        },
+        {
+            "Station": "PM KRALJEVICA",
+            "Address": "ZAHRUSTICA 10",
+            "GasName": "Q MAX EURODIESEL",
+            "Price": "9.89"
+        },
+        {
+            "Station": "PM KAŠTEL ŠTAFILIĆ - JUG",
+            "Address": "CESTA PAPE IVANA PAVLA II. 321",
+            "GasName": "Q MAX EURODIESEL",
+            "Price": "9.92"
+        },
+        {
+            "Station": "PM DIJANEŽ, VRBOVEC",
+            "Address": "DIJANEŠ 1A",
+            "GasName": "Q MAX EUROSUPER 95",
+            "Price": "9.86"
+        },
+        {
+            "Station": "PM KAŠTEL ŠTAFILIĆ - JUG",
+            "Address": "CESTA PAPE IVANA PAVLA II. 321",
+            "GasName": "Q MAX EUROSUPER 95",
+            "Price": "9.88"
+        },
+        {
+            "Station": "PM CRIKVENICA, ZIDARSKA",
+            "Address": "ZIDARSKA 2",
+            "GasName": "Q MAX EURODIESEL",
+            "Price": "9.92"
+        },
+        {
+            "Station": "PM RIJEKA, ŠKURINJE",
+            "Address": "OSJEČKA 40",
+            "GasName": "Q MAX EUROSUPER 95",
+            "Price": "9.88"
+        },
+        {
+            "Station": "PM VALPOVO",
+            "Address": "BIZOVAČKA 6",
+            "GasName": "EURODIESEL",
+            "Price": "9.77"
+        },
+        {
+            "Station": "PM IVANDVOR AC - ZAPAD",
+            "Address": "BRANA 102",
+            "GasName": "EURODIESEL",
+            "Price": "9.86"
+        },
+        {
+            "Station": "PM RIJEKA, MARTINKOVAC JUG",
+            "Address": "MARTINKOVAC 111",
+            "GasName": "Q MAX EURODIESEL",
+            "Price": "9.92"
+        },
+        {
+            "Station": "PM IVANDVOR AC - ISTOK",
+            "Address": "NOVI PERKOVCI 111",
+            "GasName": "Q MAX EURODIESEL",
+            "Price": "10.02"
+        },
+        {
+            "Station": "PM KORIJA",
+            "Address": "ULICA NAZOROVA CESTA 281",
+            "GasName": "EURODIESEL",
+            "Price": "9.77"
+        },
+        {
+            "Station": "PM ZADAR, ANTE STARČEVIĆA",
+            "Address": "ULICA ANTE STARČEVIĆA 34",
+            "GasName": "Q MAX EUROSUPER 100",
+            "Price": "10.4"
+        },
+        {
+            "Station": "PM RIJEKA, MARTINKOVAC SJEVER",
+            "Address": "MARTINKOVAC 110",
+            "GasName": "Q MAX EUROSUPER 95",
+            "Price": "9.88"
+        },
+        {
+            "Station": "PM PROLOŽAC, IMOTSKI",
+            "Address": "ULICA HRVATSKIH BRANITELJA 25",
+            "GasName": "Q MAX EUROSUPER 95",
+            "Price": "9.88"
+        },
+        {
+            "Station": "PM PAZIN",
+            "Address": "ISTARSKIH NARODNJAKA 25",
+            "GasName": "Q MAX EUROSUPER 95",
+            "Price": "9.88"
+        }
+    ]
