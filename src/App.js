@@ -1,6 +1,5 @@
 import React, { Component } from "react";
 import "./App.css";
-import { useSpring, animated } from "react-spring";
 import { CircleArrow as ScrollUpButton } from "react-scroll-up-button";
 import {
   Badge,
@@ -144,7 +143,7 @@ class App extends Component {
                   </Col>
                   <Col style={{ textAlign: "right", color: "black" }} md={4}>
                     {data.GasName}
-                    <br />${data.Price}{" "}
+                    <br />${data.Price}
                   </Col>
                 </Row>
               </ListGroupItem>
@@ -187,13 +186,6 @@ function Top(props) {
         </Button>
       </ButtonGroup>
     </Navbar>
-  );
-}
-function Loading(props) {
-  return (
-    <div>
-      <h5>loading...</h5>
-    </div>
   );
 }
 
@@ -267,21 +259,9 @@ function GetBadge(props) {
   return <GreenBadge id={id} style={props.style} />;
 }
 
-function ImgCard() {
-  const [props, set] = useSpring(() => ({
-    xys: [0, 0, 1],
-    config: { mass: 5, tension: 350, friction: 30 }
-  }));
-  return (
-    <animated.div
-      className={"card"}
-      onMouseMove={({ clientX: x, clientY: y }) => set({ xys: calc(x, y) })}
-      onMouseLeave={() => set({ xys: [0, 0, 1] })}
-      style={{ transform: props.xys.interpolate(trans) }}
-    />
-  );
-}
-
+/*
+ * simple implementation of a carousel
+ * */
 function CarouselObjects(props) {
   const myState = props.myData;
   return (
@@ -313,6 +293,9 @@ function CarouselObjects(props) {
   );
 }
 
+/*
+ * simple implementation of a modal
+ * */
 function VerticalModal(props) {
   return (
     <Modal {...props} size={"large"} variant={"dark"} bg={"dark"} centered>
