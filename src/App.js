@@ -21,9 +21,11 @@ import {
   NavbarBrand,
   Row
 } from "react-bootstrap";
-import Victory from "./components/Victory";
+// lodash for sorting data
 const _ = require("lodash");
-const loadData = require("./list.json");
+// imported JSON data
+const loadData = require("./data/list.json");
+
 const calc = (x, y) => [
   -(y - window.innerHeight / 2) / 20,
   (x - window.innerWidth / 2) / 20,
@@ -78,10 +80,16 @@ class App extends Component {
     });
   }
 
+  /*
+   * set state to show price
+   * */
   showPrice(event) {
     this.setState({ info: "price" });
   }
 
+  /*
+   * set state to show address
+   * */
   showAddress(event) {
     this.setState({ info: "address" });
   }
@@ -374,7 +382,6 @@ function VerticalModal(props) {
                   </Col>
                 </Row>
               </Jumbotron>
-
             </Col>
           </Row>
         </Container>
